@@ -1,0 +1,7 @@
+{
+  "Group": "Whitelist",
+  "Name": "WhitelistPlugin",
+  "Version": "1.0.0",
+  "Main": "com.nyla.whitelist.WhitelistPlugin",
+  "IncludesAssetPack": true
+}
