@@ -1,0 +1,1 @@
+# Hytale-whitelist-manager
